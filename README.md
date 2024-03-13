@@ -33,11 +33,14 @@ Customer_name
 Customer_address 
 Reg_date
 5. IssueStatus 
-Issue_Id - Set as PRIMARY KEY 
+Issue_Id - Set as PRIMARY KEY
+ 
 Issued_cust – Set as FOREIGN KEY and it refer customer_id in CUSTOMER table  Issued_book_name
+
 Issue_date
+
 Isbn_book – Set as FOREIGN KEY and it should refer isbn in BOOKS table
-6. ReturnStatus 
+7. ReturnStatus 
 Return_Id - Set as PRIMARY KEY 
 Return_cust 
 Return_book_name 
