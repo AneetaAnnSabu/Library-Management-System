@@ -7,4 +7,4 @@ In the database named library  following TABLES are inserted:
 4. Customer
 5. IssueStatus
 5. ReturnStatus
-Some queries are conducted on the above tables to retrieve required information.
+\nSome queries are conducted on the above tables to retrieve required information.
